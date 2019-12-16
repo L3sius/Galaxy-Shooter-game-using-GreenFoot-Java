@@ -1,12 +1,6 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Galaxy Shooter Game
+PURPOSE OF PROJECT: A simple game for university project using JAVA and GreenFoot
+VERSION or DATE: Full version
+HOW TO START THIS PROJECT: Open the game using greenfoot api and click start. 
+AUTHORS: L3sius
+USER INSTRUCTIONS: Move using WASD and shoot with SpaceBar. Optional: Turn on volume to play with sounds.
