@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Space
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Space\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=HealthBar\ getHealthBar()
+comment2.params=
+comment2.target=Space()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ changeLevel()
+comment5.params=
+comment5.target=void\ drawBackgroundImage()
+comment6.params=
+comment6.target=void\ checkForSpawning()
+comment7.params=
+comment7.target=Counter\ getCounter()
+comment8.params=
+comment8.target=void\ prepare()
+comment8.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\r\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\r\n
+numComments=9
